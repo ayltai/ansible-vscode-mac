@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Alan Tai
+  role_name: vscode_mac
+  description: Install and configure Visual Studio Code and extensions on macOS
+  license: MIT
+  min_ansible_version: 2.8
+  platforms:
+    - name: GenericUNIX
+      versions:
+        - all
+        - any
+  galaxy_tags:
+    - programming
+    - vscode
+dependencies: []
