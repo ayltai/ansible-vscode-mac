@@ -39,7 +39,7 @@ ansible-galaxy install ayltai.vscode_mac
 | `vscode_extentions` | `list` | `[]` | A list of extensions to be installed with Visual Studio Code. Supports `[publisher name].[extension name]` format. |
 | `sudo_password` | `string` | | The root password to be passed to Homebrew Cask during installation. |
 
-License
+## License
 [MIT](https://github.com/ayltai/ansible-vscode-mac/blob/master/LICENSE)
 
 ## References
